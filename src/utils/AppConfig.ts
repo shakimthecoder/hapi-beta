@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Hapi TV',
+  title: 'Hapi Corporation',
+  description: 'The new generation of social media',
   locale: 'en',
 };
